@@ -1,0 +1,9 @@
+1. WAP in C
+    - Declare array of 10 elements
+    - Use a pointer to input array elements
+    - Display sum of all elements
+    - Calculate sum of array elements using pointers
+
+2. WAP to declare string using a character pointer.
+    - Count no of vowels in string using pointer rotation
+    - Display thr total no of vowels
